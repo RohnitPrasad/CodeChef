@@ -1,0 +1,51 @@
+{
+  "subjects": [
+    {
+      "id": "11d6bb007a36",
+      "name": "Engineering Mechanics",
+      "code": "ME101",
+      "prof": "Dr. Seenu",
+      "schedule": [
+        {
+          "day": "Mon",
+          "start": "09:00",
+          "end": "10:30",
+          "location": "Room 101"
+        }
+      ],
+      "createdAt": "2025-12-12T11:41:33.820539"
+    },
+    {
+      "id": "4bc5b76a4988",
+      "name": "Calculus",
+      "code": "MA101",
+      "prof": "Dr. Roy",
+      "schedule": [
+        {
+          "day": "Tue",
+          "start": "11:00",
+          "end": "12:30"
+        }
+      ],
+      "createdAt": "2025-12-12T11:41:33.821852"
+    },
+    {
+      "id": "9b5eeab8",
+      "name": "Mechanics of Materials",
+      "code": "BAMEE",
+      "prof": "Seenu"
+    }
+  ],
+  "attendance": [
+    {
+      "id": "e0014b7f",
+      "subjectId": "4bc5b76a4988",
+      "date": "2025-12-14",
+      "present": true
+    }
+  ],
+  "assignments": [],
+  "meta": {
+    "createdAt": "2025-12-12T11:41:33.821859"
+  }
+}
